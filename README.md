@@ -1,1 +1,1 @@
-# ATM-note-counter
+To count notes
